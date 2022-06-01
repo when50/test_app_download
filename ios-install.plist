@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+    <key>items</key>  
+    <array>  
+        <dict>  
+            <key>assets</key>  
+            <array>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>software-package</string>  
+                    <key>url</key>  
+                    <string>http://10.1.0.173:8080/job/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8/ws/builds/1321/sdsp-ext3-1321-Debug.ipa</string>  
+                </dict>  
+            </array>  
+            <key>metadata</key>
+            <dict>  
+                <key>bundle-identifier</key>  
+                <string>com.ysdqTV.iphone.client</string>  
+                <key>bundle-version</key>  
+                <string>3.0.1</string>  
+                <key>kind</key>  
+                <string>software</string>  
+                <key>title</key>  
+                <string>影视大全</string>  
+            </dict>  
+        </dict>  
+    </array>  
+</dict>  
+</plist>
